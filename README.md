@@ -15,14 +15,7 @@ For a bonus point in physics.
 * In src folder type in terminal "./main.exe"
 * Answer Questions in the terminal
 ```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
+./main.exe
 ```
 
 ## Authors
